@@ -1,2 +1,4 @@
 # Contextual Inquiry Helper
  In this project, we will create an assitant that help with the semi-strucutred interview.
+ During a semi-structure interview, it is quite often that the participants inadverdently provide answers for a later question when answeing an earlier one. It is time consuming for the moderator to read a question silently and decide if a question has already been answered by the participant and decide whether to skip it or not.
+ In this assitant ai project, in each session, we will send out a manuscript. Then during the session, the assitant will listen in to the session, and mark those question with an answer 'answered'. And the moderator can just go with the questionnire displayed on the interface.

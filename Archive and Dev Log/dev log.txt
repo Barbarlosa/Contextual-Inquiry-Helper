@@ -1,0 +1,10 @@
+
+V0.2
+Asking the assistant to 
+1 merge the income transcripts
+2 only check participants response with the list
+Prompts: v0_2.txt
+
+V0.1
+Created a test assistant and tried the idea. Seems working. 
+Prompts: v0_1.txt

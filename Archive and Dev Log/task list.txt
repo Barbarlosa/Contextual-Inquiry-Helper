@@ -1,0 +1,17 @@
+[design decision] [pending] maybe publish it as a mac app. Maybe that's easier to share with team members. updating to use company's token before doing that.
+
+
+[design decision] [pending] adding an interface that allows uploading the transcript, then list the next question. (Use flask framework)
+[pending] find out ways that the virtual mac can get the sound
+
+
+[pending] adding whisper api so the bot can get the sound
+
+
+[pending] incorporating a multi-agent framework 
+
+[in progress] using another assistant that merge the income transcripts into sentences before pass it to check. The goal is to lower the token used, thus the cost.
+
+[in progress]trying new prompts to less how often the assistant check the full question list. The goal is to lower the token used, thus the cost.
+
+[done] do a tech validation 
