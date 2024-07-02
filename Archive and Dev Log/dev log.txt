@@ -1,6 +1,6 @@
 V0.3
-
-Prompts: v0_3_1.txt, v0_3_2.txt
+This version is mainly for the listener agent, I want it to merge the income transcripts into sentences before pass it to check.
+Prompts: v0_3_1.txt, v0_3_2.txt, v0_3_3.txt, v0_3_4.txt
 
 
 V0.2
