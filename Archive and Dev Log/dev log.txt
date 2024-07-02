@@ -1,5 +1,11 @@
+V0.3
+
+Prompts: v0_3_1.txt, v0_3_2.txt
+
 
 V0.2
+This version basically didn't do anything. Trying separate on a secondary agent might help
+
 Asking the assistant to 
 1 merge the income transcripts
 2 only check participants response with the list
